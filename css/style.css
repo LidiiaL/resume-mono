@@ -2,9 +2,9 @@
     /* background */
     --c-dark: #141D2D;
     --c-light: #fff;
-    --c-accent: #FF6B08;
+    --c-accent:#693a67;
   
-    --c-dark-blue: #253045; 
+    --c-dark-blue: #693a67; 
     --c-grey-blue: #4A5771;
     --c-grey-light: #F1F2F2;
     --c-grey: #BCC1D2;
@@ -1157,7 +1157,7 @@ margin-bottom: 30px;
     margin-bottom: 60px;
   }
 
-  .front-page-my-photo {
+  . {
     width: 140px;
     margin-right: 35px;
     margin-bottom: 0;
@@ -1384,10 +1384,10 @@ margin-bottom: 30px;
 
 .front-page-my-photo {
   position: absolute;
-  width: 256px;
+  width: 200px;
   z-index: -1;
   right: -125px;
-  bottom: 330px;
+  bottom: 550px;
 }
 
 .front-page-description {
@@ -1498,7 +1498,7 @@ margin-bottom: 30px;
 }
 
 .about-title {
-  font-size: 70px;
+  font-size: 50px;
   line-height: 84px;
   width: 620px;
   margin-top: 0;
