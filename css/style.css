@@ -729,6 +729,7 @@
 }
 
 .personal-project-img {
+  max-height: 410px;
   width: 100%;
 }
 
